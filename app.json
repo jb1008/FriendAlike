@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "friendalike",
-    "slug": "friendalike",
-    "version": "1.0.0",
+    "name": "Friend Alike",
+    "slug": "Friend Alike",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
